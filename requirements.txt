@@ -1,0 +1,11 @@
+socket
+colorama
+threading
+time
+requests
+getpass
+random
+pyfiglet
+pyfiglet 
+Figlet
+colorama 
